@@ -22,3 +22,4 @@ after_success:
   - docker push jorgelopez21/multi-nginx
   - docker push jorgelopez21/multi-server
   - docker push jorgelopez21/multi-worker
+  # this is a push to docker
